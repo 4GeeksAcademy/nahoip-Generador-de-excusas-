@@ -33,6 +33,7 @@ window.onload = function() {
 
     document.getElementById("excuse").innerHTML = excusa;
   }
+  generateExcuse();
 };
 
 // document.generateExcuse("#excuse").innerHTML =
